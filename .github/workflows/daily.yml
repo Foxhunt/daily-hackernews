@@ -1,6 +1,7 @@
 name: daily hacker news
 
-on:
+on: 
+  workflow_dispatch:
 #  push:
 #    branches:
 #      - master
